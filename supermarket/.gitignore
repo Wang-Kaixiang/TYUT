@@ -37,4 +37,4 @@ buildNumber.properties
 *.log
 
 # dmgr dependency local jar file don't ignore,e.g: oracle driver and sso
-!ext-libs/*.jar
+!ext-libs/*.jar'.idea' 
